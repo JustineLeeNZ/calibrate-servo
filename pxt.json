@@ -1,5 +1,5 @@
 {
-    "name": "Calibrate servo",
+    "name": "calibrate servo",
     "description": "",
     "dependencies": {
         "core": "*",
